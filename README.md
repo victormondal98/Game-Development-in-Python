@@ -45,10 +45,11 @@ The game is built upon the Tkinter library for creating graphical user interface
 
 
 **Screenshots**
-Refer to the Link for the GamePlay screens:![Gameplay Gallery](https://i.postimg.cc/X7krgPGD/Game-Board-Initial.png)
 
-
-* **Game Board:** A screenshot showcasing the game board with covered tiles, revealed tiles with numbers indicating surrounding mines, and flagged tiles.  
-* **Game Over (Mine Encountered):** A screenshot depicting the game over state after encountering a mine, highlighting the revealed mine and potentially other game elements like remaining flags or timer.
-* **Game Over (Victory):** A screenshot showing the game over state upon successful completion, where all safe tiles are revealed and no mines are flagged.
+* **Game Board:**
+* ![Inintial Screen](https://i.postimg.cc/X7krgPGD/Game-Board-Initial.png)  
+* **Game Over (Mine Encountered):**
+* ![Inintial Screen](https://i.postimg.cc/59Fv8pSZ/Game-Over.png)
+* **Game Over (Victory):**
+* ![Inintial Screen](https://i.postimg.cc/Y01hZnX0/Game-Won.png)
 
