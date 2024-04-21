@@ -47,9 +47,25 @@ The game is built upon the Tkinter library for creating graphical user interface
 **Screenshots**
 
 * **Game Board:**
-  ![Inintial Screen](https://i.postimg.cc/X7krgPGD/Game-Board-Initial.png) {width: 200px; height: 150px}  
+  
+  ![Inintial Screen](https://i.postimg.cc/X7krgPGD/Game-Board-Initial.png)
+  
+  ![Cell Opening](https://i.postimg.cc/zXrLKNBg/Game-Board-Cell-Opening.png)
+  
+  ![Flag Feature](https://i.postimg.cc/5ycXPdSD/Game-Board-Flag-Feature-3.png)
+  
+  ![Game in progress](https://i.postimg.cc/RFJ3QVKc/Game-Board-Flag-Feature-7.png)
+  
+  ![Final Stage 1](https://i.postimg.cc/65JZcRHT/Game-Board-Flag-Feature-Last-Stage-probability-1.png)
+  
+  ![Final Stage 2](https://i.postimg.cc/3wc4vD48/Game-Board-Flag-Feature-Last-Stage-probability-Final.png)
+  
+  
 * **Game Over (Mine Encountered):**
-  ![Lost](https://i.postimg.cc/59Fv8pSZ/Game-Over.png) { max-width: 50%; }
+  
+  ![Lost](https://i.postimg.cc/59Fv8pSZ/Game-Over.png)
+  
 * **Game Over (Victory):**
-  ![Won](https://i.postimg.cc/Y01hZnX0/Game-Won.png) { max-width: 30%; }
+  
+  ![Won](https://i.postimg.cc/Y01hZnX0/Game-Won.png)
 
