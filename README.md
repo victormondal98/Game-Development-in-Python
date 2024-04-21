@@ -45,8 +45,8 @@ The game is built upon the Tkinter library for creating graphical user interface
 
 
 **Screenshots**
+Refer to the Link for the GamePlay screens ![text to display]([image_url](https://postimg.cc/gallery/dq2zsf0))
 
-[Replace this section with screenshots of your game interface. You can take screenshots using your operating system's built-in tools or a screenshot extension for your web browser.]
 
 * **Game Board:** A screenshot showcasing the game board with covered tiles, revealed tiles with numbers indicating surrounding mines, and flagged tiles.  
 * **Game Over (Mine Encountered):** A screenshot depicting the game over state after encountering a mine, highlighting the revealed mine and potentially other game elements like remaining flags or timer.
