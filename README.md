@@ -45,7 +45,7 @@ The game is built upon the Tkinter library for creating graphical user interface
 
 
 **Screenshots**
-Refer to the Link for the GamePlay screens:![Gameplay Gallery](https://postimg.cc/gallery/dq2zsf0)
+Refer to the Link for the GamePlay screens:![Gameplay Gallery](https://i.postimg.cc/X7krgPGD/Game-Board-Initial.png)
 
 
 * **Game Board:** A screenshot showcasing the game board with covered tiles, revealed tiles with numbers indicating surrounding mines, and flagged tiles.  
